@@ -1,7 +1,7 @@
 const downloadButton = document.getElementById("resbtn");
 downloadButton.addEventListener("click",function(){
-const fileUrl = "https://drive.google.com/file/d/1dEmWe43QeyWchRuISlGClzA_VhtibVY_/view?usp=drivesdk";
-const fileName=  "MY RESUME";
+const fileUrl = "https://drive.google.com/file/d/1FQHWlYdXF_STgi7cvJEbDAMQ_GeAzPVf/view?usp=drivesdk";
+const fileName=  "RESUME";
 
 const link =document.createElement("a");
 link.href=fileUrl;
